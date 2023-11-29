@@ -1,0 +1,11 @@
+Para iniciar el proyecto debe:
+1- Abrir Apache Netbeans 
+2- Seleccionar "Tools", despues "Options"
+3- Seleccionar "Java", despues "Maven", luego "Index"
+4- En Index Update Frequency colocar never y ok.
+(esto es para que el programa no se sobrecarge al bajar las dependencias Maven y no sobrecalentarse.
+5- Abrir el proyecto mediante "File", "Open Project..." y seleccionarlo
+*** ANTES DE EJECUTAR
+1- Abrir wampserver e ingresar al modelo vista controlador de phpMyAdmin.
+2- Iniciar sesion con Usuario "root" sin contraseña y en eleccion del servidor "MySQL".
+3- Seleccionar "Nueva" y Crear Base de Datos con el nombre "musicdb".
